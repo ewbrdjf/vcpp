@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\seoyun\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(38,14): error C2196: case 값 '80'을(를) 이미 사용했습니다.
+C:\Users\seoyun\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(38,25): error C2196: case 값 '72'을(를) 이미 사용했습니다.
